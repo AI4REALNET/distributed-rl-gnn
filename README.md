@@ -72,7 +72,7 @@ G4DQN/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Carlo000ml/G4DQN.git
+git clone https://github.com/AI4REALNET/distributed-rl-gnn.git
 cd G4DQN
 ```
 
