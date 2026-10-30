@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a **scalable and adaptive control framework** for electrical power grids using **Graph Neural Networks (GNNs)** and **Multi-Agent Reinforcement Learning (MARL)**, tested on the realistic simulation environment provided by **Grid2Op**.
 
-## 📚 Thesis Summary
+## Overview
 
 Modern power grids are becoming increasingly complex due to the integration of renewable energy sources and the electrification of energy-intensive sectors. Traditional control strategies are no longer sufficient to handle the dynamic and high-dimensional nature of power grid operations.
 
